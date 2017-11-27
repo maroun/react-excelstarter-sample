@@ -1,4 +1,4 @@
 export const Configs = {
-  appId: '82543032-f762-4775-a7ca-5efd823d262a',
+  appId: 'ENTER_YOUR_CLIENT_ID',
   scope: 'user.read,files.readwrite'
 };
