@@ -1,4 +1,4 @@
-# Microsoft Graph Excel Starter Sample for Angular 4
+# Microsoft Graph Excel Starter Sample for React
 
 ## Table of contents
 
