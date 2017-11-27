@@ -53,11 +53,11 @@ To use this sample, you need the following:
 
 ## Build and run the sample
 
-1. Using your favorite IDE, open **configs.ts** in *src/app/shared*.
+1. Using your favorite IDE, open **configs.ts** in *src/*.
 
 2. Replace the **ENTER_YOUR_CLIENT_ID** placeholder value with the application ID of your registered Azure application.
 
-3. In a command prompt, run the following command in the root directory: `npm install`. This installs project dependencies, including the [HelloJS](http://adodson.com/hello.js/) client-side authentication library and the [Microsoft Graph JavaScript SDK](https://github.com/microsoftgraph/msgraph-sdk-javascript).
+3. In a command prompt, run the following command in the root directory: `npm install`.
   
 4. Run `npm start` to start the development server.
 
