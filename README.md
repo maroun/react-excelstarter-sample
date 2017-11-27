@@ -28,7 +28,6 @@ When you click the **Write to Excel** button, the application writes the user in
 
 To use this sample, you need the following:
 * [Node.js](https://nodejs.org/). Node is required to run the sample on a development server and to install dependencies. 
-* [Angular CLI](https://github.com/angular/angular-cli)
 * Either a [Microsoft account](https://www.outlook.com) or [Office 365 for business account](https://msdn.microsoft.com/en-us/office/office365/howto/setup-development-environment#bk_Office365Account)
 * Upload the **demo.xlsx** file in the root of this repository to the root folder of your OneDrive account. This file contains an empty table with two columns.
 
